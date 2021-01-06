@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Rahul
 #### Developer - Teacher - Speaker
 
-Worked on the Infosys DevOps Platform(a web application that basically automates the entire DevOps process for 90+ technologies). 
+Worked on the <a href="https://www.youtube.com/watch?v=8V0OKlB-d2I" target="_blank">Infosys DevOps Platform</a>(a web application that basically automates the entire DevOps process for 90+ technologies). 
 Working with UpGrad to help college grad students to learn different skills.
 Graduated from Panjab University
 
