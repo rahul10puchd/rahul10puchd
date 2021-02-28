@@ -5,7 +5,7 @@ Worked on the <a href="https://www.youtube.com/watch?v=8V0OKlB-d2I" target="_bla
 Working with UpGrad to help college grad students to learn different skills.
 Graduated from Panjab University
 
-Skills: Golang / Java8+ / Python / gRPC / Spring Boot / Spring Security / SQL / REACT / JS / HTML / CSS / Docker / Kubernates / Jenkins / Git / Design patterns / Jira
+Skills: Golang / Java8+ / Python / NodeJs / gRPC / Spring Boot / Spring Security / SQL / MongoDB / REACT / JS / HTML / CSS / Docker / Kubernates / Jenkins / Git / Design patterns / Jira
 
 - 🔭 I’m currently working on Infosys DevOps Platform 
 - 🌱 I’m currently learning Building Microservices in Java and GoLang 
