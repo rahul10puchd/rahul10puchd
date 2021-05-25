@@ -7,7 +7,7 @@ Graduated from Panjab University
 
 Skills: Golang / Java8+ / Python / NodeJs / gRPC / Spring Boot / Spring Security / SQL / MongoDB / REACT / JS / HTML / CSS / Docker / Kubernates / Jenkins / Git / Design patterns / Jira
 
-- 🔭 I’m currently working on Infosys DevOps Platform 
+- 🔭 I’m currently working on <a href="https://www.seagate.com/in/en/services/cloud/storage/" target="_blank">Lyve Cloud Storage as a Service</a>
 - 🌱 I’m currently learning Building Microservices in Java and GoLang 
 - 👯 I’m looking to collaborate on OpenSource Golang Projects 
 - 💬 Ask me about Anythin related to Golang and Full Stack development 
