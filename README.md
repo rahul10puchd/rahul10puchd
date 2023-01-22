@@ -13,20 +13,20 @@ Skills: Golang / Java8+ / Python / NodeJs / gRPC / Spring Boot / Spring Security
 - 💬 Ask me about Anythin related to Golang and Full Stack development 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rahul10-pu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rahul10-pu/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://rahul10-pu.github.io)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rahul10puchd)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rahul10puchd/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://rahul10puchd.github.io)  
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=rahul10-pu)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=rahul10puchd)](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rahul10-pu&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rahul10puchd&show_icons=true)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahul10-pu)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahul10puchd)](https://github.com/anuraghazra/github-readme-stats)
 
-![Profile views](https://gpvc.arturio.dev/rahul10-pu)  
+![Profile views](https://gpvc.arturio.dev/rahul10puchd)  
 
 <!--
-**rahul10-pu/rahul10-pu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**rahul10puchd/rahul10puchd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
